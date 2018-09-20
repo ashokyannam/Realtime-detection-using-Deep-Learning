@@ -5,6 +5,7 @@ Realtime detection of subjects in an input stream of video using Keras and Tenso
 #Make sure you installed imutils and opencv. Else run below.
 # 
 pip install imutils
+# 
 pip install opencv-python
 # 
 Run below command
