@@ -1,5 +1,5 @@
 # Realtime-detection-using-Deep-Learning
-Realtime detection of subjects in an input stream of video using Keras and Tensorflow Deep Learning Framework
+Realtime detection of subjects in an input stream of video using MobileNetSSD architecture
 # 
 
 Make sure you installed imutils and opencv. Else run below.
